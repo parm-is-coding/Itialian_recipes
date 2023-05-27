@@ -6,3 +6,6 @@ skills demonstrated
 -use of absolute links and relative links 
 - Practiced creating more meaningful commit messages that follow the industry standard
 -practiced using the fundamentals of html 5
+# Itialian_recipes
+stores projects from the Odin project curriculum 
+Hello Odin!
