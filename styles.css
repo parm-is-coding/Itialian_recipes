@@ -28,7 +28,7 @@ img {
 }
 .text {
     padding-top: 16px;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
@@ -51,6 +51,15 @@ ul{
     list-style-type:none;
     
 }
-li a:hover{
+a:hover{
     color:darkblue;
+}
+
+h3{
+    color: cadetblue;
+
+}
+
+ol {
+    color:cadetblue;
 }
