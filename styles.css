@@ -44,7 +44,11 @@ img {
 
 li {
     padding: 10px;
+    font-size: 20px;
    
+}
+p {
+    font-size: 20px;
 }
 
 ul{
