@@ -65,9 +65,11 @@ a:hover{
 
 h3{
     color: cadetblue;
+    font-size: 25px;
 
 }
 
 ol {
     color:cadetblue;
+    padding-left: 10%;
 }
