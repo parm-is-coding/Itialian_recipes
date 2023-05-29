@@ -3,7 +3,7 @@ body {
     background-color: antiquewhite;
 
 }
-
+/* html tag styles */
 h1 {
     color:cadetblue;
     font-size: 50px;
@@ -11,6 +11,10 @@ h1 {
     text-align: center;
 }
 
+h3{
+    color: cadetblue;
+    font-size: 25px;
+}
 /* controls the attributes of all 
 img tags in project */
 img {
@@ -24,9 +28,10 @@ img {
    
 
 }
-.spacing {
-    text-align: center ;
-   
+
+ol {
+    color:cadetblue;
+    padding-left: 10%;
 }
 
 a{
@@ -38,7 +43,7 @@ a{
     position: relative;
 
 }
- p {
+p {
     font-size: 20px;
  }
 
@@ -49,33 +54,23 @@ li {
    
 }
 
-
-.shifted {
-    padding-left: 23%;
-}
-
-.list {
-    list-style: none;
-}
-
-
-
-
 a:hover{
     color:darkblue;
 }
-
-h3{
-    color: cadetblue;
-    font-size: 25px;
-
+/* removes  */
+.list {
+    list-style: none;
 }
-
-ol {
-    color:cadetblue;
-    padding-left: 10%;
+/* centers p and ul tags in index  */
+.spacing {
+    text-align: center ;
+    
 }
-
+/* shifts h3 ul and p tags under img tag in
+pizza, gelato, and lasagna.html */
+.shifted {
+    padding-left: 23%;
+}
 /* shifts the links on the bottom of the page */
 .shift2 {
     padding-left: 10%;
