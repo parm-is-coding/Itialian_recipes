@@ -6,5 +6,5 @@ skills demonstrated
 -use of absolute links and relative links 
 - Practiced creating more meaningful commit messages that follow the industry standard
 -practiced using the fundamentals of html 5
--used selectors to style various page elements 
+-used type and class selectors to cascade styles across pages 
 -researched styles to use on page
