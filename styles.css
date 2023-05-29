@@ -36,16 +36,26 @@ a{
     position: relative;
 
 }
+ p {
+    font-size: 20px;
+ }
+
 
 li {
     padding: 10px;
     font-size: 20px;
    
 }
-p, ul, h3 {
-    font-size: 20px;
+
+
+.shifted {
     padding-left: 23%;
 }
+
+.list {
+    list-style: none;
+}
+
 
 
 
