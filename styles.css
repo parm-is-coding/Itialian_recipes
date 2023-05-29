@@ -19,7 +19,8 @@ h3{
 img tags in project */
 img {
     border-radius: 10px;
-    border: 4px solid cadetblue;
+    border: 10px solid cadetblue;
+
     width: 500px;
     height:"auto";
     display:block;
@@ -29,9 +30,19 @@ img {
 
 }
 
+p {
+    font-size: 20px;
+}
 ol {
     color:cadetblue;
     padding-left: 10%;
+}
+
+
+li {
+    padding: 10px;
+    font-size: 20px;
+    
 }
 
 a{
@@ -41,23 +52,12 @@ a{
     padding: 16px;
     text-align: center;
     position: relative;
-
-}
-p {
-    font-size: 20px;
- }
-
-
-li {
-    padding: 10px;
-    font-size: 20px;
-   
 }
 
 a:hover{
     color:darkblue;
 }
-/* removes  */
+/* removes dots in index */
 .list {
     list-style: none;
 }
