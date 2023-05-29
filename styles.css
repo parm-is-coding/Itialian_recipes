@@ -11,9 +11,11 @@ h1 {
     text-align: center;
 }
 
+/* controls the attributes of all 
+img tags in project */
 img {
     border-radius: 10px;
-    border: 4px solid rebeccapurple;
+    border: 4px solid cadetblue;
     width: 500px;
     height:"auto";
     display:block;
