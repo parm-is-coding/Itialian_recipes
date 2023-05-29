@@ -73,3 +73,9 @@ ol {
     color:cadetblue;
     padding-left: 10%;
 }
+
+/* shifts the links on the bottom of the page */
+.shift2 {
+    padding-left: 10%;
+
+}
