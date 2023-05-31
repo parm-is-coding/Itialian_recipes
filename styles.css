@@ -69,6 +69,7 @@ a:hover{
 /* centers p and ul tags in index  */
 .spacing {
     text-align: center ;
+    padding:10px
     
 }
 /* shifts h3 ul and p tags under img tag in
