@@ -44,7 +44,7 @@ p {
 
 
 
-li {
+.ulist {
     padding: 10px;
     font-size: 20px;
     
@@ -73,7 +73,7 @@ a:hover{
 }
 /* shifts h3 ul and p tags under img tag in
 pizza, gelato, and lasagna.html */
-.shifted {
+.shifted , .ulist {
     padding-left: 23%;
 }
 /* shifts the links on the bottom of the page */
